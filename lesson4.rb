@@ -6,3 +6,6 @@ puts Pi
 
 Pi = 100
 puts Pi
+
+name = "Hiroki"
+puts name
