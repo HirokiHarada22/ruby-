@@ -32,3 +32,14 @@ elsif apple =="Yamagata"
 else
 	puts "りんごの生産地は青森です"
 end
+
+
+orange = 100
+
+if orange < 100
+	puts "みかんを購入。所持金に余りあり"
+elsif orange == 100
+	puts "みかんを購入。所持金は0円"
+else orange > 100
+	puts "みかんを購入することができません"
+end
